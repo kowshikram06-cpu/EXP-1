@@ -62,8 +62,8 @@ a.   KVL:
 
 
 b.  KCL:
-![Uploading 571085438-edcab8a2-30b6-43c6-81aa-c85e54cdd9a1.png…]()
-![Uploading 571085447-c265d567-a3e0-460d-9140-b8e6cf4ed8c8.png…]()
+<img width="1204" height="1134" alt="571085438-edcab8a2-30b6-43c6-81aa-c85e54cdd9a1" src="https://github.com/user-attachments/assets/6784cb19-9c88-487c-a0cb-bc5ecf0bd246" />
+<img width="1204" height="1600" alt="571085447-c265d567-a3e0-460d-9140-b8e6cf4ed8c8" src="https://github.com/user-attachments/assets/b5eb45fa-b091-4eab-a401-a532e5401de3" />
 
 
 
@@ -72,13 +72,14 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+<img width="1204" height="1600" alt="571085183-75b5ffd7-5e02-4116-b9a8-9d88de1ad934" src="https://github.com/user-attachments/assets/2dcf38f9-f43b-4691-9956-4a97d2d6bb43" />
 
-![Uploading 571085183-75b5ffd7-5e02-4116-b9a8-9d88de1ad934.png…]()
 
 
 b.  KCL:
 
-![Uploading 571085167-a21ecc8a-e498-4783-b89c-e1f971f98869.png…]()
+<img width="1261" height="1600" alt="571085167-a21ecc8a-e498-4783-b89c-e1f971f98869" src="https://github.com/user-attachments/assets/f463f8c6-9e25-4640-9f8b-d0f74d8a4f30" />
+
 
 
 RESULT:
